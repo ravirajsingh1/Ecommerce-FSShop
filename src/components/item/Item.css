@@ -1,6 +1,4 @@
 .item-card {
-  display: inline-block;
-  margin: 15px;
   cursor: pointer;
   border-radius: 10px;
   border: 1px solid #e7e7e7;
@@ -13,23 +11,23 @@
 
 .item-brand {
   color: #7c7c7c;
-  font-size: 0.8rem;
+  font-size: 0.85rem;
   margin-top: 10px;
   margin-left: 10px;
-  width: 200px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  text-transform: capitalize;
 }
 
 .item-name {
-  text-transform: uppercase;
+  text-transform: capitalize;
   margin-left: 10px;
   font-weight: 600;
-  width: 200px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  font-size: 14px;
 }
 
 .item-rating {
