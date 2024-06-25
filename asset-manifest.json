@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-FSShop/static/css/main.cde313a5.css",
+    "main.js": "/Ecommerce-FSShop/static/js/main.dcb31212.js",
+    "index.html": "/Ecommerce-FSShop/index.html",
+    "main.cde313a5.css.map": "/Ecommerce-FSShop/static/css/main.cde313a5.css.map",
+    "main.dcb31212.js.map": "/Ecommerce-FSShop/static/js/main.dcb31212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde313a5.css",
+    "static/js/main.dcb31212.js"
+  ]
+}
